@@ -114,7 +114,7 @@ Implement the following design by combining **_clkctick.sv_** with **_f1_fsm.sv_
 <p align="center"> <img src="images/f1_sequence.jpg" /> </p>
 
 ---
-##  Task 4 - Full implementation of F1 starting light (OPTIONAL)
+##  Task 4 - Full implementation of F1 starting light
 ---
 Complete this task only if you have time.  It is challenging and fun, but also you may find this time consuming.
 
